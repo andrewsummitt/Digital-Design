@@ -10,6 +10,6 @@ Created: October 14, 2022
 
 Updated: December 19, 2024
 
-Source: https://c4ddownload.com/download/wooden-wall-rack-free-3d-model/
+Source: https://c4ddownload.com/wooden-wall-rack-free-3d-model/
 
 ![image](https://github.com/user-attachments/assets/e2021eb5-a316-4a5b-a2b8-fc266027771a)
