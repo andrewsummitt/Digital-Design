@@ -11,3 +11,5 @@ Created: June 30, 2023
 Updated:  December 16, 2024
 
 Source: https://c4ddownload.com/download/world-map-wall-decor-free-3d-model/
+
+![image](https://github.com/user-attachments/assets/b3477fba-1121-4d4a-9daa-77b6f38da598)
