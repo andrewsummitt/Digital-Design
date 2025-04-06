@@ -1,3 +1,5 @@
+Name: Living Room Scene 3D Model
+
 Creator: Patrick Okpeku
 
 Format: .c4d
