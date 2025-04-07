@@ -1,12 +1,17 @@
 ## Module 10: Repository Project/Part B
 
-### Tasks
-- Based on the previous module, select a management system to create your own repository. If you choose to use a system different from the ones mentioned in the previous module, make sure to justify your decision.
-- Ingest at least 5 items and create metadata for them. 
-- Organize the items into at least two levels and that are divided for a purpose (for example: one collections with all five items and two items in a particular exhibit in an archive). This can also look like folders and sub folders, depending on the system.
-
 ### Goal
-- The goal of this repository is to create a sample database to store digital assets. Although widely available online, digital assets can be taken down by sites or creators at any time. Game developers, architects, interior designers, and other professionals may find value in creating personal digital repositories to store frequently used 3D models and assets.
+The goal of this repository is to create a sample database to store digital assets. Although widely available online, digital assets can be taken down by sites or creators at any time. Game developers, architects, interior designers, and other professionals may find value in creating personal digital repositories to store frequently used 3D models and assets.
 
 ### Notes
-- The repository is organized into three categories of assets including Rooms, Decor, and Furniture. Within each subfolder there are README files containing meta data, download links, and images.
+The repository is organized into three categories of assets including Rooms, Decor, and Furniture. Within each subfolder there are README files containing meta data, download links, and images.
+
+### Meta Data
+- **Name** - name of the asset
+- **Creator** - 3D artist
+- **Format** - file format
+- **Size** - file size in MB
+- **Created** - date of creation
+- **Updated** - date of last update
+- **Source** - download link
+- **Image** - image of asset
